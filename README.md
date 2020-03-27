@@ -1,6 +1,6 @@
 # Virtual-painting
 
-virtual painting using openCV
+***virtual painting using openCV***
 
 
 
@@ -10,7 +10,7 @@ virtual painting using openCV
 
 
 
-***Findind hsv values for different coloured marker using trackbars***
+***Finding hsv values for different coloured marker using trackbars***
 
 
 
@@ -20,7 +20,7 @@ virtual painting using openCV
 
 
 
-***Making mask around markers***
+***Making mask of markers***
 
 
 ![](https://github.com/ocarian/Virtual-painting/blob/master/colored%20marker.png)
